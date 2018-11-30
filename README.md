@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ellablac/TestBuild/_apis/build/status/elbla.pipelines-java)](https://dev.azure.com/ellablac/TestBuild/_build/latest?definitionId=1)
 
 # Contributing
 
